@@ -19,8 +19,26 @@ A simple Student Management System built using **Laravel** with authentication a
 - Bootstrap
 - Git & GitHub
 
-## 📸 Screens
-(Add screenshots here)
+## 📸 Screenshots
+
+### Login
+![Login](screenshotslogin.png)
+
+### Register
+![Register](screenshotsregister.png)
+
+### Admin – Students Management
+![Admin Students](screenshotsadmin-students.png)
+
+### Add Student
+![Add Student](screenshotsadd-student.png)
+
+### Edit Student
+![Edit Student](screenshotsedit-student.png)
+
+### User – View Only
+![User View](screenshotsuser-view.png)
+
 
 ## ⚙️ Installation (Local Setup)
 ```bash
