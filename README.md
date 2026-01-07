@@ -39,7 +39,6 @@ A simple Student Management System built using **Laravel** with authentication a
 ### User – View Only
 ![User View](screenshotsuser-view.png)
 
-
 ## ⚙️ Installation (Local Setup)
 ```bash
 git clone https://github.com/programmer22-oss/student-manager-laravel.git
